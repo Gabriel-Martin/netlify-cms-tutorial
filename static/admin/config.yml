@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: Gabriel-Martin/netlify-cms tutorial
 
 media_folder: static/assets
 
@@ -12,4 +13,3 @@ collections:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
-      
