@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: Gabriel-Martin/netlify-cms tutorial
+  name: test-repo
 
 media_folder: static/assets
 
