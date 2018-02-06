@@ -14,5 +14,5 @@ collections:
       - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
       - { name: body, label: Body }
-      - { name: media, label: Media }
+      - { name: media, label: Media, widget: image }
 
